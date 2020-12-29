@@ -1,0 +1,52 @@
+state_name,start_date,end_date,gathering_bans
+Hawaii,4/25/2020,5/31/2020,
+Washington,4/2/2020,5/4/2020,
+Montana,4/24/2020,4/26/2020,More than 10
+Maine,4/2/2020,4/30/2020,
+North Dakota,n/a,n/a,
+South Dakota,4/6/2020,4/27/2020,
+Wyoming,n/a,n/a,
+Wisconsin,4/24/2020,5/26/2020,Any size
+Idaho,4/15/2020,4/30/2020,Any size
+Vermont,4/10/2020,5/15/2020,More than 10
+Minnesota,4/8/2020,5/3/2020,
+Oregon,3/23/2020,Until further notice,
+New Hampshire,3/27/2020,5/4/2020,
+Iowa,4/16/2020,4/30/2020,
+Massachusetts,3/24/2020,Until further notice,
+Nebraska,n/a,n/a,
+New York,4/7/2020,4/29/2020,Any size
+Pennsylvania,4/1/2020,4/30/2020,
+Connecticut,4/10/2020,5/20/2020,More than 5
+Rhode Island,4/10/2020,5/8/2020,More than 5
+New Jersey,3/21/2020,Until further notice,10 or more
+Indiana,4/20/2020,5/1/2020,
+Nevada,3/31/2020,4/30/2020,
+Utah,4/10/2020,5/1/2020,Any size
+California,3/19/2020,Until further notice,
+Ohio,4/6/2020,5/1/2020,
+Illinois,4/1/2020,4/30/2020,
+District of Columbia,4/17/2020,5/15/2020,
+Delaware,3/24/2020,Until further notice,
+West Virginia,3/24/2020,Until further notice,
+Maryland,3/30/2020,Until further notice,
+Colorado,4/27/2020,5/26/2020,
+Kentucky,3/26/2020,Until further notice,
+Kansas,4/16/2020,5/3/2020,More than 10
+Virginia,3/30/2020,6/10/2020,
+Missouri,4/24/2020,5/3/2020,
+Arizona,4/29/2020,5/15/2020,10 or more
+Oklahoma,4/2/2020,5/2/2020,
+North Carolina,3/30/2020,4/29/2020,
+Tennessee,4/13/2020,4/30/2020,10 or more
+Texas,4/2/2020,4/30/2020,
+New Mexico,4/7/2020,4/30/2020,
+Alabama,4/4/2020,4/30/2020,10 or more
+Mississippi,4/27/2020,5/11/2020,More than 10
+Georgia,4/23/2020,5/13/2020,
+South Carolina,4/7/2020,Until further notice,
+Arkansas,n/a,n/a,
+Louisiana,4/2/2020,4/30/2020,
+Florida,4/3/2020,4/30/2020,
+Michigan,4/24/2020,5/15/2020,
+Alaska,3/28/2020,Until further notice,Any size
