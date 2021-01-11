@@ -1,0 +1,52 @@
+state_name,start_date,end_date,gathering_bans,previous_orders_start_date,previous_orders_end_date
+Hawaii,4/25/20,5/31/20,,,
+Washington,4/2/20,5/4/20,,,
+Montana,4/24/20,4/26/20,More than 10,,
+Maine,4/2/20,4/30/20,,,
+North Dakota,,,,,
+South Dakota,4/6/20,4/27/20,,,
+Wyoming,,,,,
+Wisconsin,4/24/20,5/26/20,Any size,3/25/20,4/24/20
+Idaho,4/15/20,4/30/20,Any size,3/25/20,4/15/20
+Vermont,4/10/20,5/15/20,More than 10,3/24/20,4/15/20
+Minnesota,4/8/20,5/3/20,,3/27/20,4/10/20
+Oregon,3/23/20,Until further notice,,,
+New Hampshire,3/27/20,5/4/20,,,
+Iowa,4/16/20,4/30/20,,,
+Massachusetts,3/24/20,Until further notice,,,
+Nebraska,,,,,
+New York,4/7/20,4/29/20,Any size,,
+Pennsylvania,4/1/20,4/30/20,,,
+Connecticut,4/10/20,5/20/20,More than 5,3/23/20,4/22/20
+Rhode Island,4/10/20,5/8/20,More than 5,3/30/20,4/13/20
+New Jersey,3/21/20,Until further notice,10 or more,,
+Indiana,4/20/20,5/1/20,,3/24/20,4/6/20
+Nevada,3/31/20,4/30/20,,,
+Utah,4/10/20,5/1/20,Any size,3/27/20,4/13/20
+California,3/19/20,Until further notice,,,
+Ohio,4/6/20,5/1/20,,,
+Illinois,4/1/20,4/30/20,,3/21/20,4/7/20
+District of Columbia,4/17/20,5/15/20,,4/1/20,4/24/20
+Delaware,3/24/20,Until further notice,,,
+West Virginia,3/24/20,Until further notice,,,
+Maryland,3/30/20,Until further notice,,,
+Colorado,4/27/20,5/26/20,,3/26/20,4/11/20
+Kentucky,3/26/20,Until further notice,,,
+Kansas,4/16/20,5/3/20,More than 10,3/30/20,4/19/20
+Virginia,3/30/20,6/10/20,,,
+Missouri,4/24/20,5/3/20,,4/6/20,4/24/20
+Arizona,4/29/20,5/15/20,10 or more,3/21/20,4/30/20
+Oklahoma,4/2/20,5/2/20,,,
+North Carolina,3/30/20,4/29/20,,,
+Tennessee,4/13/20,4/30/20,10 or more,3/31/20,4/14/20
+Texas,4/2/20,4/30/20,,,
+New Mexico,4/7/20,4/30/20,,3/23/20,Until further notice
+Alabama,4/4/20,4/30/20,10 or more,,
+Mississippi,4/27/20,5/11/20,More than 10,3/31/20,4/14/20
+Georgia,4/23/20,5/13/20,,4/3/20,4/13/20
+South Carolina,4/7/20,Until further notice,,,
+Arkansas,,,,,
+Louisiana,4/2/20,4/30/20,,3/23/20,4/13/20
+Florida,4/3/20,4/30/20,,,
+Michigan,4/24/20,5/15/20,,3/24/20,4/13/20
+Alaska,3/28/20,Until further notice,Any size,,
