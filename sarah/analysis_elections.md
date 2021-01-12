@@ -61,6 +61,6 @@ no lockdown
 very flat data save peak early Nov
 
 
-**Elections (means differences not significant) overall:**
+**Elections overall:**
 All states have a peak in early November 2020, corresponding to the 2020 presidential election. Otherwise the interest is very low, close to zero. The means difference significance is again misleading - the large amount of close to zero numbers for the majority of 2020, pushes the mean down, registering it as not significantly different from 2019.
 This interest seems to have no correspondance with lockdown or coronavirus, but rather outside forces, namely the election. 
