@@ -6,6 +6,12 @@ Our questions were:
 
 2 - Is there variation by locality?
 
+Our working hypotheses/expectations were:
+
+ 1) The coronavirus had shifted people's google searches, where people would probably search more for entertainment, video online communication, and health information 
+
+ 2) A state with strong lockdowns would have more interest in entertainment, video online communication, and health information
+
 We decided to focus on two states to make our comparisons: California and Wyoming. They have several opposing characteristics, which we were interested in drawing out. California is a coastal state, with a large population, and which implemented lockdown orders quickly and for a long duration. Wyoming is a mid-Western state with a smaller population, which did not implement a lockdown at all.
 
 For each state, we looked at 21 categories, derived from Top Search data over the last three years (2018, 2019, 2020). We divided those categories into eight groups: tv/film, communications, discrimination/law enforcement, elections, general entertainment, games and celebrities entertainment, health, and miscellaneous.
@@ -42,9 +48,9 @@ Looking at the graphs themselves, in California, search interest in sci-fi/fanta
 
 In Wyoming, there is an odd spike in online video around late March-early April, when many states were going into lockdown, but Wyoming wasn't. 
 
-<p align="left">
-  <img src="output_graphs/Popularity_TVFilm/California.png" width="800">
-  <img src="output_graphs/Popularity_TVFilm/Wyoming.png" width="800">
+<p align="center">
+  <img src="output_graphs/Popularity_TVFilm/California.png" width="1000">
+  <img src="output_graphs/Popularity_TVFilm/Wyoming.png" width="1000">
 </p>
 
 **Communications**
@@ -52,14 +58,29 @@ In Wyoming, there is an odd spike in online video around late March-early April,
 In both states, search interest in mobiles stayed roughly the same as in 2019. This could be due to people being less concerned about buying new phones during a time where money was probably tighter, and there were other things to focus on.
 Meanwhile, there was a fall in search interest in voice and video chat in 2020 for both states. This fall in average search interest hides a large spike in March-April in both states, which is then balanced by a fall in interest in both states towards the end of the year. The spike in interest makes sense in California, as more people would be using online video chat for work from home. However, it is unexplained in Wyoming, where no lockdown occurred.
 
+<p align="center">
+  <img src="output_graphs/Popularity_Communications/California.png" width="1000">
+  <img src="output_graphs/Popularity_Communications/Wyoming.png" width="1000">
+</p>
+
 **Discrimination/Law Enforcement**
 
 There was a significant rise in search popularity for discrimination in 2020 for both states, compared to 2019, due to large spikes in interest in late May and late June. These rises were probably not caused by the pandemic, but rather the protests and controversies occuring around this time throughout the nation.
 While the average search interest in law enforcement was insignificant for both states, there were also spikes in both states around the time of the protests in the summer. 
 
+<p align="center">
+  <img src="output_graphs/Popularity_DiscriminationLaw/California.png" width="1000">
+  <img src="output_graphs/Popularity_DiscriminationLaw/Wyoming.png" width="1000">
+</p>
+
 **Elections/Campaigns**
 
 For both states, the difference between search popularity for campaigns/elections in 2019 and 2020 was insignificant, as many weeks in that time were close to 0% interest. However, this hides the large spike in interest in campaigns/elections during the week of the presidential election (the first week of November). 
+
+<p align="center">
+  <img src="output_graphs/Popularity_Election/California.png" width="1000">
+  <img src="output_graphs/Popularity_Election/Wyoming.png" width="1000">
+</p>
 
 **General Entertainment**
 
@@ -69,6 +90,11 @@ In both states, there was a significant drop in search popularity in Books/Liter
 
 The difference between search popularity for entertainment media in 2019 and 2020 was insignificant for both states, but this was due to a heavy drop in interest in it during early November (during the presidential election). There was actually a spike in interest in mid March-early May, covering the first few months of the lockdown for California, where people may have been looking into different forms of media (cds, dvds, books, etc.) where they could find entertainment. Wyoming also having a peak in entertainment media in mid-late March is odd, given that there was no lockdown during which people had more time for entertainment. However, the data in Wyoming is spiky, and there are several other peaks, so those early-pandemic peaks might not be very important. 
 
+<p align="center">
+  <img src="output_graphs/Popularity_GeneralEntertainment/California.png" width="1000">
+  <img src="output_graphs/Popularity_GeneralEntertainment/Wyoming.png" width="1000">
+</p>
+
 **Games and Celebrities entertainment:**
 
 There was a significant rise in search popularity for games, consoles, and systems in 2020 compared to 2019 for both states. In both states, a big spike occurs in late March to early April, the start of the lockdown period for California. There are peaks towards the end of the year in both states as well, but those are similar to peaks in 2019, suggesting perhaps those are yearly peaks in interest perhaps for buying gifts for the holiday season. But during the March-April spike, video games were probably another form of entertainment people were potentially interested in engaging in during their newfound free time during the lockdown. The early-pandemic period rise in Wyoming data is strange, as there was no lockdown during this point, where one might think people might turn to video games for entertainment. Perhaps the rise in interest is due to people being stressed about the pandemic and turning to video games as an escape after work during this time. Or perhaps, while not required to by a state lockdown, some businesses sent their employees home during this period, and those employees used their time playing video games.
@@ -77,10 +103,20 @@ There was a significant drop in search popularity for lotteries and sweepstakes 
 
 There was a significant rise in search popularity for celebrity news in 2020, with large spikes in late September and early November (the week of the presidential election and the following week) in Californina, but fluctuating throughout the year in Wyoming. Perhaps by this time in the pandemic, people in California were starting to look outside themselves and their immediate social circle for interesting information. Furthermore, if the candidates are considered celebrities, the rise in attention to celebrity news could be due to overlap with the election/campaigns category. Conversely, celebrity news could have been a distraction for people if they were trying to escape from election information. Wyoming's interest in celebrities also rose in those late September and early November periods, perhaps for similar reasons, but it is harder to pick those spikes out amongst the general spikiness of the data. 
 
+<p align="center">
+  <img src="output_graphs/Popularity_OtherEntertainment/California.png" width="1000">
+  <img src="output_graphs/Popularity_OtherEntertainment/Wyoming.png" width="1000">
+</p>
+
 **Health**
 There was a significant rise in search popularity for health news in 2020 in California only. There was a spike in interest in mid March-early April (when cases were starting to rise, and lockdown was starting), as well as a bigger spike in mid April-mid May (over the next few weeks of lockdown). There was also a decline in interest in late October-late November, as people may have grown comfortable with what they knew about health, and were no longer alert to it. In Wyoming, the average search interest in health news in 2020 did not significantly change compared to 2019. As is usual for the Wyoming data, it is more spiky than the California data, and while there are peaks in early March, mid April, and early-mid May, there is a lack of sustained interest the way there was in California. Health News is a broad category, however, and this result might be taken to suggest that the pandemic did not inspire people in Wyoming to look more into health in general, the way it seemed to have done in California.
 
 By contrast, the average search interest in infectious diseases in 2020 significantly rose compared to 2019, for both states. Both states follow a similar trajectory: a peak from early March-mid April, and then remaining rather stagnant for the rest of the year. In both states, people seem to have been intensely interested in infectious diseases (most likely specifically coronavirus) towards the beginning of the pandemic, but then seem to feel they know enough about it, and stop looking into it as much. 
+
+<p align="center">
+  <img src="output_graphs/Popularity_Health/California.png" width="1000">
+  <img src="output_graphs/Popularity_Health/Wyoming.png" width="1000">
+</p>
 
 **Miscellaneous**
 
@@ -92,13 +128,23 @@ There is a significant drop in search popularity for beauty/fitness in 2020, com
 
 There was a significant fall in search interest for sports news in 2020 compared to 2019 for both states. In California, large falls in interest occurred around the start of the lockdown (late March, early April), and also during the summer (early May to July). In Wyoming, the fall was more consistent, through late March - late July. One might think people might have wanted to escape into watching sports during the early pandemic, but perhaps this drop was more to a dimishishment in supply: fewer sports competitions were held, especially during the earlier part of the pandemic.
 
+<p align="center">
+  <img src="output_graphs/Popularity_SelectedMisc/California.png" width="1000">
+  <img src="output_graphs/Popularity_SelectedMisc/Wyoming.png" width="1000">
+</p>
+
 ### Election Effect
 
 Several categories had dips in interest during the first week of November, during the presidential election. These dips are sometimes hard to see clearly just using 2020 data, but looking at graphs which show the difference between the popularity of a category in 2020 and the popularity in 2019, it is easy to see deep dips in interest during that specific week. Those deep dips show that many people across the two states found this election very important, and turned from their usual interests to focus on the election. 
 
-This election effect can be seen in the categories: beauty/fitness, celebrity news, online video, entertainment media, sci-fi/fantasy (California only), tv shows (California only).
+This election effect can be seen in the categories: books/literature, beauty/fitness, celebrity news, online video, entertainment media, sci-fi/fantasy (California only), tv shows (California only).
 
 One example graph is shown here. The others can be found in the ca_wy_graphs in the output_graphs folder.
+
+<p align="center">
+  <img src="output_graphs/ca_wy_graphs/california_books_lit_years_diff.png" width="1000">
+  <img src="output_graphs/ca_wy_graphs/wyoming_beauty_fitness_years_diff.png" width="1000">
+</p>
 
 ## Question 2: Is there variation by location in the way the pandemic affected states?
 
@@ -109,4 +155,16 @@ Some of these similarities are surprising: one might expect activities relating 
 A few categories differ between the states: Health News, Automobiles, Beauty/Fitness
 
 It makes sense that these categories differ, relating to the different pandemic response of each state. For Wyoming, interest in autombiles and beauty/fitness stayed the same in 2020 because people were still more able to do outside activities and see more people. The fact that California implemented strong stay at home protocols and Wyoming didn't suggests that California may generally be more concerned with health, and Wyoming isn't, aligning with California's interest in health news rising, and Wyoming's interest staying the same. 
+
+## Conclusions:
+
+We were generally correct in our predictions: under lockdown, people tended to search more about entertainment, voice/video chat, and health. But Wyoming, our non-lockdown state, often had rises and falls in interests in tandem with our lockdown state, California, even though there was no lockdown in Wyoming. This could be another avenue in research: despite the lockdown order, did may businesses send their employees home? Was there still a rise in working from home during different periods in Wyoming?
+
+Differences in states occurred less than we had expected, especially since the states we chose were so different. The few categories that did differ, Health News, Automobiles, Beauty/Fitness, differed in reasonable ways, relating to the greater freedom of movement and association in Wyoming. 
+
+A surprise was how much the election affected interests in other categories. Searches within the election category were pretty limited to the week of the election itself, but although the interest was limitied, during the week of the election, there was a deep dip in interest in several categories. From the election graphs alone, one might not guess that the 2020 presidential election mattered very much to people, but as seen from the other graphs, it seemed to change people's search behavior dramatically for that week.
+
+A limitation of our study is that we assumed that 2019 was a good average year to measure 2020 against. Future research could involve looking at more years past, and perhaps averaging them, to get a better understanding of how 2020 changed people's behavior.
+
+More/different categories could also have been used to uncover more information on how people's searches changed. 
 
