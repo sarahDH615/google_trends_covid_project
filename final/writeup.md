@@ -42,8 +42,10 @@ Looking at the graphs themselves, in California, search interest in sci-fi/fanta
 
 In Wyoming, there is an odd spike in online video around late March-early April, when many states were going into lockdown, but Wyoming wasn't. 
 
-(https://github.com/sarahDH615/data-analysis-project-1/blob/main/final/output_graphs/Popularity_TVFilm/California.png?raw=true)
-
+<p align="center">
+  <img src="output_graphs/Popularity_TVFilm/California.png" width="350">
+  <img src="output_graphs/Popularity_TVFilm/Wyoming.png" width="350">
+</p>
 
 **Communications**
 
