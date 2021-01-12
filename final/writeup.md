@@ -59,8 +59,8 @@ In both states, search interest in mobiles stayed roughly the same as in 2019. T
 Meanwhile, there was a fall in search interest in voice and video chat in 2020 for both states. This fall in average search interest hides a large spike in March-April in both states, which is then balanced by a fall in interest in both states towards the end of the year. The spike in interest makes sense in California, as more people would be using online video chat for work from home. However, it is unexplained in Wyoming, where no lockdown occurred.
 
 <p align="center">
-  <img src="output_graphs/Popularity_Communications/California.png" width="1000">
-  <img src="output_graphs/Popularity_Communications/Wyoming.png" width="1000">
+  <img src="output_graphs/Popularity_Communication/California.png" width="1000">
+  <img src="output_graphs/Popularity_Communication/Wyoming.png" width="1000">
 </p>
 
 **Discrimination/Law Enforcement**
@@ -135,11 +135,11 @@ There was a significant fall in search interest for sports news in 2020 compared
 
 ### Election Effect
 
-Several categories had dips in interest during the first week of November, during the presidential election. These dips are sometimes hard to see clearly just using 2020 data, but looking at graphs which show the difference between the popularity of a category in 2020 and the popularity in 2019, it is easy to see deep dips in interest during that specific week. Those deep dips show that many people across the two states found this election very important, and turned from their usual interests to focus on the election. 
+Several categories had dips (or in the case of celebrity news, a rise) in interest during the first week of November, during the presidential election. These dips are sometimes hard to see clearly just using 2020 data, but looking at graphs which show the difference between the popularity of a category in 2020 and the popularity in 2019, it is easy to see deep dips in interest during that specific week. Those deep dips show that many people across the two states found this election very important, and turned from their usual interests to focus on the election. 
 
 This election effect can be seen in the categories: books/literature, beauty/fitness, celebrity news, online video, entertainment media, sci-fi/fantasy (California only), tv shows (California only).
 
-One example graph is shown here. The others can be found in the ca_wy_graphs in the output_graphs folder.
+Two example graphs are shown here. The others can be found in the ca_wy_graphs in the output_graphs folder.
 
 <p align="center">
   <img src="output_graphs/ca_wy_graphs/california_books_lit_years_diff.png" width="1000">
