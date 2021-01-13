@@ -1,8 +1,7 @@
 # Google Trends & Covid Data Analysis Project
 
-# Look at the “final” folder to see our exemplary code. 
-
-### In the final folder you will find the following:
+### In this folder you will find the following:
+ 
  notebooks folder: 
 - Our codes used to gather search data from the Google API.
 - The code used to integrate the Covid and stay at home orders to Google the searches. 
