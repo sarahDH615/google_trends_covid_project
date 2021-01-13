@@ -1,4 +1,4 @@
-# data-analysis-project-1
+# Google Trends & Covid Data Analysis Project
 
 # Look at the “final” folder to see our exemplary code. 
 
