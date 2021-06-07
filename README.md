@@ -16,7 +16,8 @@
     - Various folders with graphs displaying the popularity of a given category throughout the year laid over a bar graph displaying the rise of Covid cases in a given state.
     - This also includes a folder with standard deviation line graphs to compare sub-categories. 
 
-* The final presentation (provided as pdf and a powerpoint files)
+* presentation:
+    - The presentation given in January 2021 on our work, provided as pdf and powerpoint files
 
 * A [writeup](/final/writeup.md) with our findings 
 
