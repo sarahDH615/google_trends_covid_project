@@ -18,5 +18,5 @@
 
  The final presentation 
 
- A writeup with our findings 
+ A [writeup] (final/writeup.md) with our findings 
 
