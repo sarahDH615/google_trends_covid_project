@@ -18,5 +18,5 @@
 
  The final presentation 
 
- A [writeup](https://github.com/sarahDH615/google_trends_covid_project/tree/main/final/writeup.md) with our findings 
+ A [writeup](/final/writeup.md) with our findings 
 
