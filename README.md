@@ -38,11 +38,11 @@ The aim of this project was to discover the effect Coronavirus stay-at-home orde
 - Creating graphs:
     - grouping categories together for graphing purposes, getting the groupings Communication, Discrimination & Law, Election, General Entertainment, Health, Miscellaneous, Other Entertainment, TV & Film
     - finding standard deviations, and running p-tests for California and Wyoming (the case study states)
-    <p align="left">
-    <img src="images/CAmeans.png" width="500">
+    <p align="center">
+    <img src="images/CAmeans.png" width="1000">
     </p>
-    <p align="right">
-    <img src="images/WYmeans.png" width="500">
+    <p align="center">
+    <img src="images/WYmeans.png" width="1000">
     </p>
     - using functions to run through all the CSVs and create graphs for:  1)2019 and 2)2020 separately, as well as 3)together, 4) means comparisons, and pie charts showing 5)the percentage each category/category grouping's mean took up in total searches and 6)category groupings by year
 
