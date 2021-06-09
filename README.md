@@ -17,7 +17,7 @@ The aim of this project was to discover the effect Coronavirus stay-at-home orde
     - Google search information:
         - using PyTrends Top Categories between 2018 and 2020 to discover the most searched for items over those years
         <p align="center">
-          <img src="images/categories.png" width="1000">
+          <img src="images/categories.png" width="600">
         </p>
         - assigning categories to each of those terms, removing duplicates, and arriving at 21 categories
         - using PyTrends Interest Over Time to derive weekly popularity ratings in each category
@@ -42,7 +42,7 @@ The aim of this project was to discover the effect Coronavirus stay-at-home orde
     <p align="center">
     <img src="images/CAmeans.png" width="1000">
     </p>
-    
+
     #### _Wyoming_
     <p align="center">
     <img src="images/WYmeans.png" width="1000">
