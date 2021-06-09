@@ -19,5 +19,5 @@
 * presentation:
     - The presentation given in January 2021 on our work, provided as pdf and powerpoint files
 
-* A [writeup](/writeup.md) with our findings 
+* A [writeup](writeup.md) with our findings 
 
