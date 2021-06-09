@@ -38,9 +38,12 @@ The aim of this project was to discover the effect Coronavirus stay-at-home orde
 - Creating graphs:
     - grouping categories together for graphing purposes, getting the groupings Communication, Discrimination & Law, Election, General Entertainment, Health, Miscellaneous, Other Entertainment, TV & Film
     - finding standard deviations, and running p-tests for California and Wyoming (the case study states)
+    ##### _California_
     <p align="center">
     <img src="images/CAmeans.png" width="1000">
     </p>
+    
+    #### _Wyoming_
     <p align="center">
     <img src="images/WYmeans.png" width="1000">
     </p>
