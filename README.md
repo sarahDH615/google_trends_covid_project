@@ -11,18 +11,39 @@ The aim of this project was to discover the effect Coronavirus stay-at-home orde
 - Information Gathering:
     - Stay-at-home order information:
         - using the [ArcGIS Covid19 data API](https://services1.arcgis.com/s6aICfcOJecr58j6/ArcGIS/rest/services/Stay_at_Home_Orders_and_Advisories/FeatureServer) to obtain stay-at-home order data, cleaning it, and saving it to a CSV
+        <p align="center">
+          <img src="images/stayAtHomeOrders.png" width="1000">
+        </p>
     - Google search information:
         - using PyTrends Top Categories between 2018 and 2020 to discover the most searched for items over those years
+        <p align="center">
+          <img src="images/categories.png" width="1000">
+        </p>
         - assigning categories to each of those terms, removing duplicates, and arriving at 21 categories
         - using PyTrends Interest Over Time to derive weekly popularity ratings in each category
+        <p align="center">
+          <img src="images/getGoogleDataFunct.png" width="1000">
+        </p>
     - Covid Case information:
         - downloading and cleaning by-state information on Covid infections by week
+        <p align="center">
+          <img src="images/covidData.png" width="1000">
+        </p>
     - Combining information into by-state CSVs:
         - dividing each category's data into CSVs for each state
         - adding true/false values to note whether a gathering ban or stay-at-home order was in force during each week
+        <p align="center">
+          <img src="images/addingTF.png" width="1000">
+        </p>
 - Creating graphs:
     - grouping categories together for graphing purposes, getting the groupings Communication, Discrimination & Law, Election, General Entertainment, Health, Miscellaneous, Other Entertainment, TV & Film
     - finding standard deviations, and running p-tests for California and Wyoming (the case study states)
+    <p align="left">
+    <img src="images/CAmeans.png" width="500">
+    </p>
+    <p align="right">
+    <img src="images/WYmeans.png" width="500">
+    </p>
     - using functions to run through all the CSVs and create graphs for:  1)2019 and 2)2020 separately, as well as 3)together, 4) means comparisons, and pie charts showing 5)the percentage each category/category grouping's mean took up in total searches and 6)category groupings by year
 
 ## Challenges/Conclusions
